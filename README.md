@@ -1,24 +1,14 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1)Add about page and homework assignment
+2) Add Article resource:
+- generate migration(Article table columns title and description )
+- create Article model to communicate with DB(it gives us getters ans setters). Create several articles via rails console;
+- add validations to the Article model;
+- create routes, def and view for show action;
+- index action;
+- build a new artcile creation form (action view form helpers: form_with). Actions new and create;
+- validation flash messages;
+- edit and update;
+- delete;
+- add layout links;
+- code refactoring + add partial for edit and new forms;
+- styling;
