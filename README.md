@@ -11,4 +11,5 @@
 - delete;
 - add layout links;
 - code refactoring + add partial for edit and new forms;
-- styling;
+- homepage styling;
+- layout links;
