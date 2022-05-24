@@ -13,3 +13,4 @@
 - code refactoring + add partial for edit and new forms;
 - homepage styling;
 - layout links;
+- style articles index page;
