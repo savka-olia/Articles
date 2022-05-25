@@ -17,4 +17,5 @@
 - styling form partial;
 - style validation and flash messages;
 - add styling for the article show view;
-
+- Cleanup layout.
+3) Associations and Authentication Systems;
