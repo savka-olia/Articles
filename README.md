@@ -14,3 +14,15 @@
 - homepage styling;
 - layout links;
 - style articles index page;
+- styling form partial;
+- style validation and flash messages;
+
+
+  <% if @article.errors.any? %>
+    <h2>The following errors prevented the article from being saved</h2>
+    <ul>
+      <% @article.errors.full_message.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+    </ul>
+  <% end %>
