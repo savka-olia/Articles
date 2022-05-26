@@ -19,3 +19,5 @@
 - add styling for the article show view;
 - Cleanup layout.
 3) Associations and Authentication Systems;
+ - create Users
+ 
