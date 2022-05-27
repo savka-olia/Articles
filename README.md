@@ -19,5 +19,12 @@
 - add styling for the article show view;
 - Cleanup layout.
 3) Associations and Authentication Systems;
- - create Users
+ - create Users table and model;
+ - add validation to user;
+ - add associations;
+ - show user info in articles
+ - before_save method on email field;
+ - add secure password;
+ - new user signup form;
+ - create new users (backend)
  
