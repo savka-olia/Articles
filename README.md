@@ -26,4 +26,5 @@
  - before_save method on email field;
  - add secure password;
  - new user signup form;
+ - create new users (backend)
  
