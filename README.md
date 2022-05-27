@@ -24,5 +24,6 @@
  - add associations;
  - show user info in articles
  - before_save method on email field;
- - add secure password
+ - add secure password;
+ - new user signup form;
  
