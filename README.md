@@ -32,3 +32,4 @@
  - add users index;
  - cleanup layout;
  - add pagination to views;
+ - add login form;
