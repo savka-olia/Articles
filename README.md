@@ -31,3 +31,4 @@
  - show user and profile image;
  - add users index;
  - cleanup layout;
+ - add pagination to views;
