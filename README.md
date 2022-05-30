@@ -29,3 +29,5 @@
  - create new users (backend);
  - edit users;
  - show user and profile image;
+ - add users index;
+ 
