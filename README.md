@@ -28,4 +28,4 @@
  - new user signup form;
  - create new users (backend);
  - edit users;
- 
+ - show user and profile image;
