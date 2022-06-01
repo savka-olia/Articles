@@ -34,3 +34,4 @@
  - add pagination to views;
  - add login form;
  - authentication helper methods;
+ - Restrict actions from UI (edit, view,delete for only logged in users)
