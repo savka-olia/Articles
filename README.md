@@ -34,4 +34,7 @@
  - add pagination to views;
  - add login form;
  - authentication helper methods;
- - Restrict actions from UI (edit, view,delete for only logged in users)
+ - restrict actions from UI (edit, view,delete for only logged in users);
+ - modify navigation based on helpers;
+ - restrict actions at controller level;
+ 
