@@ -38,3 +38,4 @@
  - modify navigation based on helpers;
  - restrict actions at controller level;
  - delete user action;
+ - Add admin user functionality;
