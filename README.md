@@ -37,4 +37,4 @@
  - restrict actions from UI (edit, view,delete for only logged in users);
  - modify navigation based on helpers;
  - restrict actions at controller level;
- 
+ - delete user action;
