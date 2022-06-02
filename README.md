@@ -39,3 +39,5 @@
  - restrict actions at controller level;
  - delete user action;
  - Add admin user functionality;
+ 4) Category model:
+ - testing Category model
