@@ -40,4 +40,5 @@
  - delete user action;
  - Add admin user functionality;
  4) Category model:
- - testing Category model
+ - testing Category model;
+ - validations using unit tests
