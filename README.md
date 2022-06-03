@@ -26,5 +26,20 @@
  - before_save method on email field;
  - add secure password;
  - new user signup form;
- - create new users (backend)
- 
+ - create new users (backend);
+ - edit users;
+ - show user and profile image;
+ - add users index;
+ - cleanup layout;
+ - add pagination to views;
+ - add login form;
+ - authentication helper methods;
+ - restrict actions from UI (edit, view,delete for only logged in users);
+ - modify navigation based on helpers;
+ - restrict actions at controller level;
+ - delete user action;
+ - Add admin user functionality;
+ 4) Category model:
+ - testing Category model;
+ - validations using unit tests;
+ - categories controller and tests;
