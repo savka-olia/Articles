@@ -41,4 +41,5 @@
  - Add admin user functionality;
  4) Category model:
  - testing Category model;
- - validations using unit tests
+ - validations using unit tests;
+ - categories controller and tests;
