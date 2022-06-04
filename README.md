@@ -43,3 +43,6 @@
  - testing Category model;
  - validations using unit tests;
  - categories controller and tests;
+ - create category and test;
+ - listing category page;
+ - admin user requirement and test;
