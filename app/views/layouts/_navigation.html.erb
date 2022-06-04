@@ -12,6 +12,14 @@
           <li class="nav-item active">
             <%= link_to "Articles", articles_path, class:"nav-link" %>
           </li>
+          <li class="nav-item active">
+            <%= link_to " View Categories", categories_path, class:"nav-link" %>
+          </li>
+          <% if logged_in? && current_user.admin? %>
+            <li class="nav-item dropdown">
+              <%= link_to "Create new category", new_category_path, class:"nav-link" %>
+            </li>
+          <% end %>
           <% if logged_in? %>
             <li class="nav-item dropdown">
               <%= link_to "Create new article", new_article_path, class:"nav-link" %>
