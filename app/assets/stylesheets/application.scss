@@ -86,3 +86,17 @@ body {
     margin-left: 1em; }
 
 /* Other Classes for Page Styling */
+
+.badge {
+  border: 1px solid rgb(132, 158, 158);
+  background-color: rgb(61, 150, 150);
+  font-size: 0.85em;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-left: 5px;
+}
+
+.badge:hover{
+  color: rgb(223, 222, 222);
+}

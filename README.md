@@ -46,3 +46,4 @@
  - create category and test;
  - listing category page;
  - admin user requirement and test;
+ - Many-to-many association;
